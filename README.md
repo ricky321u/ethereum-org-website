@@ -1061,8 +1061,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://cryptojobslist.com"><img src="https://avatars.githubusercontent.com/u/936436?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Raman</b></sub></a><br /><a href="#content-ksaitor" title="Content">🖋</a></td>
     <td align="center"><a href="https://attrace.com"><img src="https://avatars.githubusercontent.com/u/9334333?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roeland Werring</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3Aruleking" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/skalenetwork"><img src="https://avatars.githubusercontent.com/u/13399135?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stan Kladko</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/commits?author=kladkogex" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://jaredflomen.ca"><img src="https://avatars.githubusercontent.com/u/58126876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jared Flomen</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/commits?author=JaredFlomen" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://jaredflomen.ca"><img src="https://avatars.githubusercontent.com/u/58126876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jared Flomen</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/commits?author=JaredFlomen" title="Documentation">📖</a> <a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3AJaredFlomen" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://atimidblog.com"><img src="https://avatars.githubusercontent.com/u/38049812?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joseph Wallace</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/issues?q=author%3Amannekin" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://ahmed.prusevic.com/"><img src="https://avatars.githubusercontent.com/u/24927091?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ahmed Prusevic</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/commits?author=ahmedprusevic" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://mattsolomon.dev"><img src="https://avatars.githubusercontent.com/u/17163988?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matt</b></sub></a><br /><a href="#content-mds1" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ytrezq"><img src="https://avatars.githubusercontent.com/u/3824869?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ytrezq</b></sub></a><br /><a href="https://github.com/ethereum/ethereum-org-website/commits?author=ytrezq" title="Documentation">📖</a></td>
   </tr>
 </table>
 
